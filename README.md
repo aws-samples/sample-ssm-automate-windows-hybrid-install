@@ -1,6 +1,6 @@
 # Automate Registering Windows Managed Nodes in AWS Systems Manager
 
-This code is used in the AWS Cloud Operations Blog post "Automate Registering Windows Managed Nodes in AWS Systems Manager"
+This code is used in the AWS Cloud Operations Blog post [Automate Registering Windows Managed Nodes in AWS Systems Manager](https://aws.amazon.com/blogs/mt/automate-registering-windows-managed-nodes-with-aws-systems-manager/?advocacy_source=everyonesocial&trk=global_employee_advocacy&sc_channel=sm&es_id=807d6c5761)
 
 ## Overview
 
